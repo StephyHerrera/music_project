@@ -12,9 +12,10 @@ Para realizar pruebas con este proyecto, sigue estos pasos:
    pip install pandas
 2. Descarga el código del proyecto y asegúrate de tener el archivo CSV (music_project_en.csv) anexado en la carpeta del proyecto.
 3. Abre el script de Python y busca la sección donde se lee el archivo CSV. Modifica la línea correspondiente para definir la ruta del archivo:
+
    df = pd.read_csv('ruta_del_archivo/music_project_en.csv')
 
-4. Ejecuta el script para analizar y comparar las preferencias musicales.
+5. Ejecuta el script para analizar y comparar las preferencias musicales.
    * Estas sugerencias adicionales buscan proporcionar una guía más detallada y práctica para que los usuarios puedan probar tu proyecto con mayor facilidad.
 
 ## Autor
